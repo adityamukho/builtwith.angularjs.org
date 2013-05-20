@@ -1342,7 +1342,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1507,6 +1507,22 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {    
+      "name": "Berserker",
+      "thumb": "berserker/thumb.jpg",
+      "desc": "Advanced web-based frontend for Aria2-JSONRPC",
+      "url": "https://github.com/adityamukho/Berserker",
+      "info": "http://notesfromheck.wordpress.com/",
+      "src": "https://github.com/adityamukho/Berserker",
+      "submitter": "adityamukho",
+      "submissionDate": "2013-05-20",
+      "tags": [
+        "Download Manager",
+        "Aria 2",
+        "Node.js",
+        "Linux"
+      ]    
     }
   ]
 }
